@@ -17,7 +17,7 @@ class WebRequestHandler(BaseHTTPRequestHandler):
 
     def get_response(self):
         return f"""
-    <h1> Hola mundo </h1>
+    <h1> Hola </h1>
 """
 
 
